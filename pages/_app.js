@@ -3,6 +3,7 @@ import '@/css/prism.css'
 import { ThemeProvider } from 'next-themes'
 import Head from 'next/head'
 import LayoutWrapper from '@/components/LayoutWrapper'
+import Analytics from '@/components/analytics'
 
 export default function App({ Component, pageProps }) {
   return (
@@ -10,6 +11,7 @@ export default function App({ Component, pageProps }) {
       <Head>
         <meta content="width=device-width, initial-scale=1" name="viewport" />
       </Head>
+      <Analytics />
 
       <LayoutWrapper>
         <Component {...pageProps} />
