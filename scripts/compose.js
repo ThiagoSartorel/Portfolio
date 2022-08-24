@@ -82,11 +82,6 @@ inquirer
       choices: ['yes', 'no'],
     },
     {
-      name: 'tags',
-      message: 'Any Tags? Separate them with , or leave empty if no tags.',
-      type: 'input',
-    },
-    {
       name: 'layout',
       message: 'Select layout',
       type: 'list',

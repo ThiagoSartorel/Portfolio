@@ -1,7 +1,7 @@
 ---
 name: Kevelin Mondadori Mattos
 occupation: Analista de Sistemas
-company: kevelinmmattos@gmail.com
+company: (49) 99807-6767
 ---
 
 Welcome to Quasilinear Musings! This blog serves as a playground for me to experiment

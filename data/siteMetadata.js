@@ -1,18 +1,18 @@
 const siteMetadata = {
-  title: 'Quasilinear Musings',
-  author: 'Timothy Lin',
-  headerTitle: 'Quasilinear Musings',
+  title: 'Kevelin',
+  author: 'Kevelin Mondadori Mattos',
+  headerTitle: 'Kevelin Mondadori Mattos',
   description: 'Thoughts from a wandering mind',
-  language: 'en-us',
+  language: 'pt-BR',
   siteUrl: 'https://www.timlrx.com',
   siteRepo: 'https://github.com/timlrx/timlrx.com',
   image: '/static/img/avatar.png',
   socialBanner: '/static/img/twitter-card.png',
-  email: 'timothy.lin@alumni.ubc.ca',
-  github: 'https://github.com/timlrx',
-  twitter: 'https://twitter.com/timlrxx',
-  linkedin: 'https://www.linkedin.com/in/timlrx',
-  locale: 'en-US',
+  email: 'kevelinmmattos@gmail.com',
+  github: 'https://github.com/KevelinMM',
+  instagram: 'https://www.instagram.com/kevelin_mattos/',
+  linkedin: 'https://www.linkedin.com/in/kevelin-mondadori-5100b5197/',
+  locale: 'pt-BR',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
     plausibleDataDomain: false, // e.g. tailwind-nextjs-starter-blog.vercel.app
