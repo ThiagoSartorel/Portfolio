@@ -1,5 +1,11 @@
 const projectsData = [
   {
+    title: 'Saboarte',
+    description: `Ecommerce da marca Saboarte, marca idealizada por Kevelin Mondadori Mattos. Saboaria natural, artesanal e vegana.`,
+    imgSrc: '/static/Saboarte.png',
+    href: 'https://www.saboarte.com/',
+  },
+  {
     title: 'Rede Feminina de Fraiburgo',
     description: `Site realizado de forma gratuíta para Instituição de combate ao câncer com o objetivo de informar, mostrar transparência aos futuros doares e divulgar a Rede.`,
     imgSrc: '/static/Rfcc.png',
