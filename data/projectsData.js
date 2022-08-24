@@ -2,7 +2,7 @@ const projectsData = [
   {
     title: 'Saboarte',
     description: `Ecommerce da marca Saboarte, marca idealizada por Kevelin Mondadori Mattos. Saboaria natural, artesanal e vegana.`,
-    imgSrc: '/static/Saboarte.png',
+    imgSrc: 'https://i.imgur.com/Nl4dL08.png',
     href: 'https://www.saboarte.com/',
   },
   {
