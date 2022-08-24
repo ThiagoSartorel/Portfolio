@@ -4,11 +4,12 @@ occupation: Analista de Sistemas
 company: (49) 99807-6767
 ---
 
-Welcome to Quasilinear Musings! This blog serves as a playground for me to experiment
-with ideas and share some of my findings. It's a reflection of my career path and
-interests - especially on the technical side of things. For more information, check
-out my.
+Seja bem vindo(a) ao meu portifólio profissional, que tem como objetivo mostrar meus projetos, informações para contato, e formação acadêmica.
+Formada em Administração e cursando quianto período de Sistemas da Informação pela
+Universidade do Planalto Catarinense (Uniplac).
 
-I am proficient in R, Python and Javascript. My current interests are in the areas of
-network analytics, full-stack development, technology and labour economics so expect
-to see more of these stuff in the future! This blog is bootstrapped from the awesome.
+Minha maior conquista foi a criação da minha própria marca de cosméticos naturais, a
+Saboarte, onde todos os produtos são produzidos artesanalmente por mim. Além de endender
+o processo de produção, aprendi muito sobre finanças, marketing digital, design, vendas e comunicação.
+
+Atualmente trabalho na área de TI como analista de sistemas na Uniplac, realizando trabalhos em Sql server, html, css e javascript. Dedico meu tempo livre a Saboaria e a leitura.
