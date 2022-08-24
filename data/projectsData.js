@@ -1,21 +1,31 @@
 const projectsData = [
   {
-    title: 'Cylynx',
-    description: `Reimagining compliance and risk screening with solutions powered by network analytics. Exploring better ways to secure the financial system, improve human-machine collaboration and what it means to build a company.`,
-    imgSrc: '/static/img/cylynx-logo.png',
-    href: 'https://www.cylynx.io',
+    title: 'Rede Feminina de Fraiburgo',
+    description: `Site realizado de forma gratuíta para Instituição de combate ao câncer com o objetivo de informar, mostrar transparência aos futuros doares e divulgar a Rede.`,
+    imgSrc: '/static/Rfcc.png',
+    href: 'https://rfccfraiburgo.com.br/',
   },
   {
-    title: 'Tailwind Nextjs Starter Blog',
-    description: `What this blog is based on! I maintain it seperately as a side project. An out of the box personal portfolio template, beautifully styled, completely customisable and built on one of the hottest frontend frameworks.`,
-    imgSrc: '/static/img/demo-twitter-card.png',
-    href: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+    title: 'Nupeb',
+    description: `Desenvolvimento do site
+    institucional para o NuPEB - Núcleo de Pesquisa em Educação Básica da
+    Uniplac - Universidade do Planalto Catarinense, com o objetivo de divulgar
+    o núcleo, eventos, projetos e demais publicações realizadas pelos
+    participantes.`,
+    imgSrc: '/static/Nupeb.png',
+    href: 'https://nupeb.uniplaclages.edu.br/',
   },
   {
-    title: 'Singapore Economy Dashboard',
-    description: `A dashboard covering Singapore's quarterly GDP and employment figures. Programmed in R and plotly. Nothing great technically but it holds a special place in my heart as one of my first creations.`,
-    imgSrc: '/static/img/sg-dashboard-pic.png',
-    href: '/dashboard/sg-dashboard.html',
+    title: 'Krieguer Advocacia',
+    description: `Landing page profissional para escritória de advocacia consultoria jurídica, com o objetivo de informar os serviços oferecidos e capturar clientes. `,
+    imgSrc: '/static/Krieguer.png',
+    href: 'https://www.kriegueradvocacia.com.br/',
+  },
+  {
+    title: 'MidiLages',
+    description: `Site para o Micro Distrito de Base Tecnológica de Lages - Incubadora MIDILages. Implantação, operacionalização, diretoria técnica e administrativa de Incubadora de Empresas, estimulando empreendimentos.`,
+    imgSrc: '/static/Midi.png',
+    href: 'https://midilages.com.br/index.html/',
   },
 ]
 
