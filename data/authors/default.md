@@ -1,8 +1,7 @@
 ---
 name: Kevelin Mondadori Mattos
-occupation: Co-founder
-company: Cylynx
-email: Kevelin Mondadori Mattos
+occupation: Analista de Sistemas
+company: kevelinmmattos@gmail.com
 ---
 
 Welcome to Quasilinear Musings! This blog serves as a playground for me to experiment
