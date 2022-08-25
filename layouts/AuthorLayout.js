@@ -1,4 +1,7 @@
 import { PageSEO } from '@/components/SEO'
+import Image from 'next/image'
+import projectsData from '@/data/projectsData'
+import Card from '@/components/Card'
 
 export default function AuthorLayout({ children, frontMatter }) {
   const { name, occupation, company } = frontMatter
@@ -27,6 +30,22 @@ export default function AuthorLayout({ children, frontMatter }) {
           </div>
           <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2 text-justify">
             {children}
+          </div>
+        </div>
+        <div className="">
+          <h1 className="text-center text-2xl font-bold py-4">Últimos trabalhos</h1>
+          <div className="flex dark:bg-blue-900 dark:bg-opacity-20 rounded-lg">
+            {projectsData
+              .filter((item, index) => index < 3)
+              .map((d) => (
+                <Card
+                  key={d.title}
+                  title={d.title}
+                  description={''}
+                  imgSrc={d.imgSrc}
+                  href={d.href}
+                />
+              ))}
           </div>
         </div>
       </div>
