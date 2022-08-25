@@ -10,8 +10,16 @@ export default function AuthorLayout({ children, frontMatter }) {
     <>
       <PageSEO title={`About - ${name}`} description={`About me - ${name}`} />
       <div className="divide-y">
-        <div className="pt-6 pb-8 space-y-2 md:space-y-5">
-          <h1 className=" text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
+        <div className="pt-6 pb-8 space-y-2 md:space-y-5 flex">
+          <div className="w-14 md:w-20">
+            <Image
+              src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+              alt="HandShaking"
+              height={100}
+              width={100}
+            />
+          </div>
+          <h1 className="pl-4 text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
             Thiago Sartorel
           </h1>
         </div>
