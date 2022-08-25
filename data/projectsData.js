@@ -15,15 +15,13 @@ const projectsData = [
     title: 'Nupeb',
     description: `Desenvolvimento do site
     institucional para o NuPEB - Núcleo de Pesquisa em Educação Básica da
-    Uniplac - Universidade do Planalto Catarinense, com o objetivo de divulgar
-    o núcleo, eventos, projetos e demais publicações realizadas pelos
-    participantes.`,
+    Uniplac, com o objetivo de divulgar o núcleo, eventos, projetos e demais publicações realizadas pelos participantes.`,
     imgSrc: 'https://i.imgur.com/1AhfRMz.png',
     href: 'https://nupeb.uniplaclages.edu.br/',
   },
   {
     title: 'Krieguer Advocacia',
-    description: `Landing page profissional para escritória de advocacia consultoria jurídica, com o objetivo de informar os serviços oferecidos e capturar clientes. `,
+    description: `Landing page profissional para escritório de advocacia consultoria jurídica, com o objetivo de informar os serviços oferecidos e capturar potenciais clientes. `,
     imgSrc: 'https://i.imgur.com/OOwszWB.png',
     href: 'https://www.kriegueradvocacia.com.br/',
   },

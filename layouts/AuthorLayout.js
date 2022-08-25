@@ -23,7 +23,9 @@ export default function AuthorLayout({ children, frontMatter }) {
             <div className="text-gray-500 dark:text-gray-400">{occupation}</div>
             <div className="text-gray-500 dark:text-gray-400">{company}</div>
           </div>
-          <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">{children}</div>
+          <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2 text-justify">
+            {children}
+          </div>
         </div>
       </div>
     </>
