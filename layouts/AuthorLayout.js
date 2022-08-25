@@ -32,23 +32,6 @@ export default function AuthorLayout({ children, frontMatter }) {
             {children}
           </div>
         </div>
-        <div className="">
-          <h1 className="text-center text-2xl font-bold py-4">Últimos trabalhos</h1>
-          <div className="flex dark:bg-blue-900 dark:bg-opacity-20 rounded-lg">
-
-            {projectsData.filter((item, index) => index < 3).map((d) => (
-
-              <Card
-                key={d.title}
-                title={d.title}
-                description={""}
-                imgSrc={d.imgSrc}
-                href={d.href}
-              />
-
-            ))}
-          </div>
-        </div>
       </div>
     </>
   )
