@@ -19,7 +19,9 @@ export default function AuthorLayout({ children, frontMatter }) {
               alt="avatar"
               className="w-48 h-48 rounded-full"
             />
-            <h3 className="pt-4 pb-2 text-2xl font-bold leading-8 tracking-tight">{name}</h3>
+            <h3 className="pt-4 pb-2 text-2xl font-bold leading-8 tracking-tight text-center">
+              {name}
+            </h3>
             <div className="text-gray-500 dark:text-gray-400">{occupation}</div>
             <div className="text-gray-500 dark:text-gray-400">{company}</div>
           </div>
