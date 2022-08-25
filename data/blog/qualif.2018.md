@@ -3,7 +3,7 @@ title: Curso técnico/profissionalizante em Técnico de informática integrado a
 date: '2018-06-10'
 tags: []
 draft: false
-summary: Ensino médio concluido no Instituto Federal Campus Fraiburgo, com curso técnico de informática.
+summary: Ensino médio concluído no Instituto Federal Campus Fraiburgo, com curso técnico de informática.
 images: ['']
 layout: PostLayout
 ---
