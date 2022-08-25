@@ -1,7 +1,5 @@
 import { PageSEO } from '@/components/SEO'
-import Image from 'next/image'
-import projectsData from '@/data/projectsData'
-import Card from '@/components/Card'
+
 
 
 export default function AuthorLayout({ children, frontMatter }) {
