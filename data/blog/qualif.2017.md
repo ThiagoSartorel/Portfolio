@@ -4,6 +4,6 @@ date: '2017-01-12'
 tags: []
 draft: false
 summary: Formada em inglês com certificado toefl. Tempo de curso 7 anos.
-images: ['/static/img/building-oss-cover.png']
+images: ['']
 layout: PostLayout
 ---
