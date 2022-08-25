@@ -11,6 +11,7 @@ const siteMetadata = {
   email: 'kevelinmmattos@gmail.com',
   github: 'https://github.com/KevelinMM',
   instagram: 'https://www.instagram.com/kevelin_mattos/',
+  whatsapp: 'https://wa.me/5549998076767',
   linkedin: 'https://www.linkedin.com/in/kevelin-mondadori-5100b5197/',
   locale: 'pt-BR',
   analytics: {

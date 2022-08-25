@@ -2,13 +2,13 @@ const projectsData = [
   {
     title: 'Saboarte',
     description: `Ecommerce Saboarte, marca idealizada por Kevelin Mondadori Mattos. Saboaria natural, artesanal e vegana.`,
-    imgSrc: '/static/Saboarte.png',
+    imgSrc: 'https://i.imgur.com/Nl4dL08.png',
     href: 'https://www.saboarte.com/',
   },
   {
     title: 'Rede Feminina de Fraiburgo',
     description: `Site realizado de forma gratuíta para Instituição de combate ao câncer com o objetivo de informar, mostrar transparência aos futuros doares e divulgar a Rede.`,
-    imgSrc: '/static/Rfcc.png',
+    imgSrc: 'https://i.imgur.com/qwKtd1t.png',
     href: 'https://rfccfraiburgo.com.br/',
   },
   {
@@ -18,19 +18,19 @@ const projectsData = [
     Uniplac - Universidade do Planalto Catarinense, com o objetivo de divulgar
     o núcleo, eventos, projetos e demais publicações realizadas pelos
     participantes.`,
-    imgSrc: '/static/Nupeb.png',
+    imgSrc: 'https://i.imgur.com/1AhfRMz.png',
     href: 'https://nupeb.uniplaclages.edu.br/',
   },
   {
     title: 'Krieguer Advocacia',
     description: `Landing page profissional para escritória de advocacia consultoria jurídica, com o objetivo de informar os serviços oferecidos e capturar clientes. `,
-    imgSrc: '/static/Krieguer.png',
+    imgSrc: 'https://i.imgur.com/OOwszWB.png',
     href: 'https://www.kriegueradvocacia.com.br/',
   },
   {
     title: 'MidiLages',
     description: `Site para o Micro Distrito de Base Tecnológica de Lages - Incubadora MIDILages. Implantação, operacionalização, diretoria técnica e administrativa de Incubadora de Empresas, estimulando empreendimentos.`,
-    imgSrc: '/static/Midi.png',
+    imgSrc: 'https://i.imgur.com/T1H4EGG.png',
     href: 'https://midilages.com.br/index.html/',
   },
 ]
