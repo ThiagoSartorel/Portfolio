@@ -34,7 +34,7 @@ export default function AuthorLayout({ children, frontMatter }) {
         </div>
         <div className="">
           <h1 className="text-center text-2xl font-bold py-4">Últimos trabalhos</h1>
-          <div className="flex dark:bg-blue-900 dark:bg-opacity-20 rounded-lg">
+          <div className="flex flex-col md:flex-row dark:bg-blue-900 dark:bg-opacity-20 rounded-lg items-center">
             {projectsData
               .filter((item, index) => index < 3)
               .map((d) => (
