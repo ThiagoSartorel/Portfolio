@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Thiago',
   author: 'Thiago Cezar Posnske Sartorel',
-  headerTitle: 'Thiago Sartorel',
+  headerTitle: '',
   description: 'Portfolio profissional',
   language: 'pt-BR',
   siteUrl: '',
