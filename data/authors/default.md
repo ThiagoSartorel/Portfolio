@@ -1,7 +1,7 @@
 ---
-name: Thiago Cezar Posanske Sartorel
+name: Kevelin Mondadori Mattos
 occupation: Analista de Sistemas
-company: thiagosartorel@uniplac.net
+company: kevelinmmattos@gmail.com
 ---
 
 Seja bem vindo(a) ao meu portifólio profissional, que tem como objetivo mostrar meus projetos, informações para contato e formação acadêmica.
@@ -14,6 +14,6 @@ o processo de produção, aprendi muito sobre finanças, marketing digital, desi
 
 Atualmente trabalho na área de TI como analista de sistemas na Uniplac, realizando trabalhos em Sql server, MySql, html, css, tailwind, bootstrap, javascript, React e Nextjs. Dedico meu tempo livre a Saboaria e a leitura.
 
-Data de nascimento: 04/10/2000;
-Natural e residência atual: Fraiburgo SC;
+Data de nascimento: 01/09/2000;
+Natural e residência atual: Lages SC;
 Disponibilidade para trabalho remoto e presencial.
