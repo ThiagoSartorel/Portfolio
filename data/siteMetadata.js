@@ -4,7 +4,7 @@ const siteMetadata = {
   headerTitle: '',
   description: 'Portfolio profissional',
   language: 'pt-BR',
-  siteUrl: 'https://www.thiagosartorel.com.br/',
+  siteUrl: '',
   siteRepo: 'https://github.com/ThiagoSartorel/Portfolio',
   image: 'https://github.com/thiagosartorel.png',
   socialBanner: 'https://github.com/thiagosartorel.png',
