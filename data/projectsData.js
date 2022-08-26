@@ -23,7 +23,7 @@ const projectsData = [
     title: 'MidiLages',
     description: `Site para o Micro Distrito de Base Tecnológica de Lages - Incubadora MIDILages. Implantação, operacionalização, diretoria técnica e administrativa de Incubadora de Empresas, estimulando empreendimentos.`,
     imgSrc: 'https://i.imgur.com/T1H4EGG.png',
-    href: 'https://midilages.com.br/index.html/',
+    href: 'https://midilages.com.br',
   },
 ]
 
