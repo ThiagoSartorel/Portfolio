@@ -10,6 +10,7 @@ export default function App({ Component, pageProps }) {
     <ThemeProvider attribute="class">
       <Head>
         <meta content="width=device-width, initial-scale=1" name="viewport" />
+        <link rel="shortcut icon" href="/static/favicons/favicon.ico" />
       </Head>
       <Analytics />
       <LayoutWrapper>
