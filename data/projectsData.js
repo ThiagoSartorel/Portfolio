@@ -1,5 +1,11 @@
 const projectsData = [
   {
+    title: 'Certificado Uniplac',
+    description: `Site para consulta e validação de certificados emitidos na Uniplac.`,
+    imgSrc: 'https://i.imgur.com/1EVpf8K.png',
+    href: 'https://certificados.uniplaclages.edu.br/',
+  },
+  {
     title: 'Rede Feminina de Fraiburgo',
     description: `Site realizado de forma gratuíta para Instituição de combate ao câncer com o objetivo de informar, mostrar transparência aos futuros doadores e divulgar a Rede.`,
     imgSrc: 'https://i.imgur.com/qwKtd1t.png',
@@ -24,12 +30,6 @@ const projectsData = [
     description: `Site para o Micro Distrito de Base Tecnológica de Lages - Incubadora MIDILages. Implantação, operacionalização, diretoria técnica e administrativa de Incubadora de Empresas, estimulando empreendimentos.`,
     imgSrc: 'https://i.imgur.com/T1H4EGG.png',
     href: 'https://midilages.com.br',
-  },
-  {
-    title: 'Certificado Uniplac',
-    description: `Site para consulta e validação de certificados emitidos na Uniplac.`,
-    imgSrc: 'https://i.imgur.com/iliJyvd.png',
-    href: 'https://certificados.uniplaclages.edu.br/',
   },
 ]
 
