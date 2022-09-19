@@ -25,6 +25,12 @@ const projectsData = [
     imgSrc: 'https://i.imgur.com/T1H4EGG.png',
     href: 'https://midilages.com.br',
   },
+  {
+    title: 'Certificado Uniplac',
+    description: `Site para consulta e validação de certificados emitidos na Uniplac.`,
+    imgSrc: 'https://i.imgur.com/iliJyvd.png',
+    href: 'https://certificados.uniplaclages.edu.br/',
+  },
 ]
 
 export default projectsData
