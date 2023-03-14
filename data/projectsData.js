@@ -1,5 +1,11 @@
 const projectsData = [
   {
+    title: 'ConsultaPlaca',
+    description: `Site para o realizar consulta da placa de veículos, para obtenção de informações.`,
+    imgSrc: 'https://i.imgur.com/DUzygdG.png',
+    href: 'https://consulta.thiagosartorel.com.br/',
+  },
+  {
     title: 'Certificado Uniplac',
     description: `Site para consulta e validação de certificados emitidos na Uniplac.`,
     imgSrc: 'https://i.imgur.com/1EVpf8K.png',
@@ -30,12 +36,6 @@ const projectsData = [
     description: `Site para o Micro Distrito de Base Tecnológica de Lages - Incubadora MIDILages. Implantação, operacionalização, diretoria técnica e administrativa de Incubadora de Empresas, estimulando empreendimentos.`,
     imgSrc: 'https://i.imgur.com/T1H4EGG.png',
     href: 'https://midilages.com.br',
-  },
-  {
-    title: 'ConsultaPlaca',
-    description: `Site para o realizar consulta da placa de veículos, para obtenção de informações.`,
-    imgSrc: 'https://imgur.com/DUzygdG',
-    href: 'https://consulta.thiagosartorel.com.br/',
   },
 ]
 
