@@ -6,6 +6,12 @@ const projectsData = [
     href: 'https://consulta.thiagosartorel.com.br/',
   },
   {
+    title: 'Monumento dos bois',
+    description: `Site informativo para a apresentação do novo monumento feito na Uniplac.`,
+    imgSrc: 'https://monumento.uniplaclages.edu.br/fotos/057.jpg',
+    href: 'https://monumento.uniplaclages.edu.br/',
+  },
+  {
     title: 'Certificado Uniplac',
     description: `Site para consulta e validação de certificados emitidos na Uniplac.`,
     imgSrc: 'https://i.imgur.com/1EVpf8K.png',
