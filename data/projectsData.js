@@ -31,6 +31,12 @@ const projectsData = [
     imgSrc: 'https://i.imgur.com/T1H4EGG.png',
     href: 'https://midilages.com.br',
   },
+  {
+    title: 'ConsultaPlaca',
+    description: `Site para o realizar consulta da placa de veículos, para obtenção de informações.`,
+    imgSrc: 'https://imgur.com/DUzygdG',
+    href: 'https://consulta.thiagosartorel.com.br/',
+  },
 ]
 
 export default projectsData
