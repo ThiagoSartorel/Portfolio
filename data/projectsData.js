@@ -8,7 +8,7 @@ const projectsData = [
   {
     title: 'Monumento dos bois',
     description: `Site informativo para a apresentação do novo monumento feito na Uniplac.`,
-    imgSrc: 'https://monumento.uniplaclages.edu.br/fotos/057.jpg',
+    imgSrc: 'https://i.imgur.com/ddxduin.jpeg',
     href: 'https://monumento.uniplaclages.edu.br/',
   },
   {
