@@ -1,11 +1,5 @@
 const projectsData = [
   {
-    title: 'ConsultaPlaca',
-    description: `Site para o realizar consulta da placa de veículos, para obtenção de informações.`,
-    imgSrc: 'https://i.imgur.com/DUzygdG.png',
-    href: 'https://consulta.thiagosartorel.com.br/',
-  },
-  {
     title: 'Monumento dos bois',
     description: `Site informativo para a apresentação do novo monumento feito na Uniplac.`,
     imgSrc: 'https://i.imgur.com/ddxduin.jpeg',
