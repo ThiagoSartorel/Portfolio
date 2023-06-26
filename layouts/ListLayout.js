@@ -23,18 +23,27 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
         </div>
         <ul>
           {!filteredBlogPosts.length && 'No posts found.'}
-          {displayPosts.map((frontMatter) => {
-            var { slug, date, title, summary } = frontMatter
+          {displayPosts.map((frontMatter, index) => {
+            var { slug, date, title, summary, tags } = frontMatter
             if (date == '9999-01-01T00:00:00.000Z') {
               date = new Date()
             }
             return (
-              <li key={slug} className="py-4">
+              <li key={index} className="py-4">
                 <article className="space-y-2 xl:grid xl:grid-cols-4 xl:space-y-0 xl:items-baseline">
                   <dl>
                     <dt className="sr-only">Published on</dt>
                     <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400">
                       <time dateTime={date}>{formatDate(date)}</time>
+                      {tags &&
+                        tags.map((e, index) => (
+                          <p
+                            key={index}
+                            className="text-xl pt-2 font-bold text-gray-900 dark:text-gray-100 pl-4"
+                          >
+                            {e}
+                          </p>
+                        ))}
                     </dd>
                   </dl>
                   <div className="space-y-3 xl:col-span-3">

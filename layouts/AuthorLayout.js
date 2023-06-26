@@ -34,9 +34,11 @@ export default function AuthorLayout({ children, frontMatter }) {
             <h3 className="pt-4 pb-2 text-2xl font-bold leading-8 tracking-tight text-center">
               {name}
             </h3>
-            <div className="text-gray-500 dark:text-gray-400">{occupation}</div>
-            <div className="text-gray-500 dark:text-gray-400 pb-2">{company}</div>
+            <div className="text-gray-500 dark:text-gray-400 text-center">{occupation}</div>
+            <div className="text-gray-500 dark:text-gray-400 pb-2 pt-4">{company}</div>
             <div className="w-full h-20 py-2">
+              <p className="text-center font-semibold">Experiências:</p>
+
               <div className="p-2 flex flex-wrap justify-center">
                 {skills.icons.map((item, index) => (
                   <Render key={index} imgSrc={item} alt={skills.desc[index]} />
