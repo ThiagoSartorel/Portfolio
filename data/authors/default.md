@@ -1,17 +1,17 @@
 ---
 name: Thiago Cezar Posanske Sartorel
-occupation: Dev | Front-end | Back-end | React | JavaScript | SQL | Tailwind
+occupation: Dev | Back-end | JAPA | SQL
 company: sartorelthiago@gmail.com
 ---
 
 Bem vindo ao meu portfólio.
 
-Sou natural de Fraiburgo SC e residente em Lages SC, estou em constante busca de oportunidades para alavancar minhas habilidades como desenvolvedor.
+Sou natural de Fraiburgo SC e residente em Lages SC, minha ligação com a área da TI começou logo cedo, ainda com 14 anos realizei meu primeiro curso em Assistência Técnica de computadores e redes. Logo em seguida, comecei outros cursos, dentre eles computação gráfica e criação de jogos 3D. Pela afinidade com a área, optei pela formação Técnico de Informática no ensino médio.
+
+Após isso tive a oportunidade de explorar diversos ramos da profissão, mas encontrei minha verdadeira identificação no desenvolvimento Back-end.
+
+Atualmente, trabalho na Universidade do Planalto Catarinense, onde desempenho um papel ativo na equipe de desenvolvimento de soluções web. Meu foco principal é o desenvolvimento Back-end, mas também tenho habilidades sólidas no Front-end, banco de dados e administração de servidores.
+
+Possuo um amplo domínio em AdonisJs, uma estrutura de desenvolvimento robusta, além de experiência em testes automatizados e SQL. Estou sempre em busca de oportunidades que me permitam expandir meus conhecimentos e habilidades, visando um crescimento pessoal e profissional contínuo.
+
 O intuito da página é mostrar de forma objetiva e simples meu crescimento tanto profissional como pessoal com projetos realizados e capacitações.
-
-Atualmente trabalho na área de TI como analista de sistemas na Uniplac, realizando trabalhos em Sql Server, MySQL, HTML, CSS, Tailwind, Bootstrap, JavaScript, React e Nextjs. Dedico meu tempo livre a projetos pessoais e a leitura.
-
-Minha ligação com a área da TI começou logo cedo, ainda com 14 anos realizei meu primeiro curso em Assistência Técnica de computadores e redes, onde me identifiquei. Logo em seguida, comecei outros cursos , dentre eles computação gráfica e criação de jogos 3D.
-Pela afinidade com a área, optei pela formação Técnico de Informática no ensino médio.
-
-Atualmente, trabalho na Universidade do Planalto Catarinense - Uniplac, como desenvolvedor de softwares e sites institucionais, além de cursar Sistemas de Informação.
