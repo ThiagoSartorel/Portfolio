@@ -1,22 +1,28 @@
 const projectsData = [
   {
+    title: 'The Maze',
+    description: `Página da web criada para divulgação de um jogo de puzzles que traz um clima misterioso.`,
+    imgSrc: 'https://i.imgur.com/DUUVjYq.png',
+    href: 'https://www.themaze.quest/',
+  },
+  {
     title: 'Portal do aluno - MOBILE',
-    description: `Aplicativo do portal acadêmico da uniplac. Com acesso facilitado ao financeiro e histórico de disciplinas notas e faltas.`,
+    description: `Aplicativo do portal acadêmico da Uniplac. Com acesso facilitado ao financeiro e histórico de disciplinas, notas e faltas.`,
     imgSrc: 'https://i.imgur.com/4tkWXr3.jpg',
   },
   {
     title: 'EMAJ',
-    description: `Sistema desenvolvido para o gerenciamento de estágio do curso de direiro da Uniplac. Visando o controle de horas, documentos, clientes e protocolos.`,
+    description: `Sistema desenvolvido para o gerenciamento de estágio do curso de Direito da Uniplac. Visando o controle de horas, documentos, clientes e protocolos.`,
     imgSrc: 'https://i.imgur.com/WFfHzxn.png',
   },
   {
     title: 'Som & Cia',
-    description: `Sistema para controle de "fichas de serviços", contendo items e funcionários por serviço. Gerando orcamento final. Com metricas de rendimento mensal e controle de clientes.`,
+    description: `Sistema para controle de "fichas de serviços", contendo itens e funcionários por serviço. Gerando orçamento final. Com métricas de rendimento mensal e controle de clientes.`,
     imgSrc: 'https://i.imgur.com/7zVRJxW.png',
   },
   {
     title: 'Repositório institucional',
-    description: `O Repositório Institucional da Universidade do Planalto Catarinense (Uniplac) é um sistema que visa armazenar, preservar, organizar material de estudantes e professores, provendo o acesso aberto à informação.`,
+    description: `O Repositório Institucional da Universidade do Planalto Catarinense (Uniplac) é um sistema que visa armazenar, preservar e organizar materiais de estudantes e professores, provendo o acesso aberto à informação.`,
     imgSrc: 'https://i.imgur.com/hJ0ZQs7.png',
     href: 'https://repositorio.uniplaclages.edu.br/',
   },
@@ -40,20 +46,18 @@ const projectsData = [
   },
   {
     title: 'Rede Feminina de Fraiburgo',
-    description: `Site realizado de forma gratuíta para Instituição de combate ao câncer com o objetivo de informar, mostrar transparência aos futuros doadores e divulgar a Rede.`,
+    description: `Site realizado gratuitamente para Instituição de combate ao câncer, com o objetivo de informar, mostrar transparência aos futuros doadores e divulgar a Rede.`,
     imgSrc: 'https://i.imgur.com/qwKtd1t.png',
   },
   {
     title: 'Nupeb',
-    description: `Desenvolvimento do site
-    institucional para o NuPEB - Núcleo de Pesquisa em Educação Básica da
-    Uniplac, com o objetivo de divulgar o núcleo, eventos, projetos e demais publicações realizadas pelos participantes.`,
+    description: `Desenvolvimento do site institucional para o NuPEB - Núcleo de Pesquisa em Educação Básica da Uniplac, com o objetivo de divulgar o núcleo, eventos, projetos e demais publicações realizadas pelos participantes.`,
     imgSrc: 'https://i.imgur.com/1AhfRMz.png',
     href: 'https://nupeb.uniplaclages.edu.br/',
   },
   {
     title: 'Krieguer Advocacia',
-    description: `Landing page profissional para escritório de advocacia consultoria jurídica, com o objetivo de informar os serviços oferecidos e capturar potenciais clientes. `,
+    description: `Landing page profissional para escritório de advocacia e consultoria jurídica, com o objetivo de informar os serviços oferecidos e capturar potenciais clientes.`,
     imgSrc: 'https://i.imgur.com/OOwszWB.png',
     href: 'https://www.kriegueradvocacia.com.br/',
   },
