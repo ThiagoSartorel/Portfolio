@@ -1,5 +1,10 @@
 const projectsData = [
   {
+    title: 'Monitoramento de Nobreaks',
+    description: `Script de monitoramento em Python no Data Center da Uniplac. Caso o nível de bateria atingir um nível crítico devido a uma situação de falta de energia prolongada, as laminas e suas VMs serão desligadas automaticamente de forma segura.`,
+    imgSrc: 'https://i.imgur.com/MrfCVVz.jpg',
+  },
+  {
     title: 'The Maze',
     description: `Plataforma online destinada a divulgar um jogo de puzzles que traz um clima misterioso. O site apresenta animações distintas para as versões móvel e desktop, garantindo uma experiência adaptada a cada dispositivo.`,
     imgSrc: 'https://i.imgur.com/DUUVjYq.png',
